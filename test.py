@@ -6,7 +6,7 @@ from PIL import Image
 
 # testing accuracy on test dataset
 
-y_test = pd.read_csv('test.csv')
+y_test = pd.read_csv('Test.csv')
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
